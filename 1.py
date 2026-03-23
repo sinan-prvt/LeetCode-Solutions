@@ -29,7 +29,9 @@
 
 
 
+
 # --- Solution 2 :
+
 
 def twosum(arr, target):
     arr_with_index = list(enumerate(arr))
