@@ -33,7 +33,7 @@
 
 def twosum(arr, target):
     arr_with_index = list(enumerate(arr))
-    arr_with_index.sort(key=lambda x:x[1])
+    arr_with_index.sort(key=lambda x: x[1])
 
     left = 0
     right = len(arr) - 1
