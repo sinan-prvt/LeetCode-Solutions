@@ -7,7 +7,7 @@
 
 
 
-# --- Solution 1 :
+# --- Solution 1 :- Hash Map Approach (It is Best Solution)
 
 
 # def twosum(nums, target):
@@ -30,7 +30,7 @@
 
 
 
-# --- Solution 2 :
+# --- Solution 2 :- Sorting and Two Pointers Approach
 
 
 def twosum(arr, target):
