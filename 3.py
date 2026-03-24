@@ -8,7 +8,7 @@
 
 
 
-# --- Solution 1 :
+# --- Solution 1 :- Sliding Window Approach with Hash Set 
 
 
 # def lengstr(s):
@@ -32,7 +32,7 @@
 
 
 
-# --- Solution 2 :
+# --- Solution 2 :- Sliding Window Approach with Hash Map (It is Best Solution)
 
 
 def longstr(s):
