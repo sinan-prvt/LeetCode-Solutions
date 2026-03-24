@@ -11,7 +11,7 @@
 
 
 
-# --- Solution 1 :- Using Simple Loop and Condition Check
+# --- Solution 1 :- Using Simple Loop and Condition Check (It is Best Solution)
 
 
 # def countAnts(nums):
@@ -34,7 +34,10 @@
 
 
 
+
+
 # --- Solution 2 :- In Pythonic way 
+
 
 def countAnts(nums):
     position = 0
@@ -45,3 +48,5 @@ nums2 = [1, 2, -3, 3, -2, -1]
 
 print(countAnts(nums))
 print(countAnts(nums2))
+
+
