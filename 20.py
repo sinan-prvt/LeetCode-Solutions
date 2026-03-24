@@ -6,7 +6,7 @@
 
 
 
-# --- Solution 1 :
+# --- Solution 1 :- Using Stack and Hash Map with closing and opening brackets
 
 
 # def isValid(s):
@@ -36,8 +36,7 @@
 
 
 
-# --- Solution 2 :
-
+# --- Solution 2 :- Using Stack and Hash Map with opening and closing brackets (It is Best Solution)
 
 def isValid(s):
     stack = []
