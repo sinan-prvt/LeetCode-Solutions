@@ -5,7 +5,7 @@
 
 
 
-# --- Solution 1 :-
+# --- Solution 1 :- Simple Addition
 
 
 def add(num1, num2):
