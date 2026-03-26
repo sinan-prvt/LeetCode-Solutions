@@ -11,7 +11,8 @@
 
 
 
-# --- Solution 1 :-
+# --- Solution 1 :- Simple Iteration
+
 
 def fizzbuzz(n):
     result = []
