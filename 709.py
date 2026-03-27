@@ -8,7 +8,7 @@
 
 
 
-# --- Solution 1 :-
+# --- Solution 1 :- Using Built-in String Method
 
 
 def toLowerCase(s):
@@ -16,3 +16,5 @@ def toLowerCase(s):
 
 s = "Hello"
 print(toLowerCase(s))
+
+
